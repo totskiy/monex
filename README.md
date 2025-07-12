@@ -1,4 +1,4 @@
-# GoMoneyParse
+# Monex
 
 🪙 A Go library to parse money strings like `"1 200,50 грн"` or `"$3,999.99"` into float and currency.
 
